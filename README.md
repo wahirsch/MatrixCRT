@@ -7,7 +7,7 @@ This program displays a fullscreen visual effect simulating the "digital rain" c
 ## How to Run
 
 1.  **Unzip (If Necessary):** If you received this program in a `.zip` file, first extract all the contents to a folder on your computer.
-2.  **Run:** Locate the executable file (likely named `MatrixCRT.exe` or similar) inside the folder and double-click it.
+2.  **Run:** Locate the executable file (named `MatrixCRT.exe`) inside the folder and double-click it.
 3.  The program should launch and run in fullscreen.
 
 ## How to Exit
